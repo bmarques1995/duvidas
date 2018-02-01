@@ -1,0 +1,16 @@
+{
+    "name": "catalogo",
+    "version": "1.0.0",
+    "description": "Conjunto de títulos com opções de localização de áudio e legendas em português brasileiro",
+    "main": "server.js",
+    "author": "Bruno Silva Marques",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "^1.18.2",
+        "express": "^4.16.2",
+        "mongodb": "^3.0.1"
+    },
+    "devDependencies": {
+        "assert": "^1.4.1"
+    }
+}
